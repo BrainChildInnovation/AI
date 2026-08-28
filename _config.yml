@@ -1,5 +1,8 @@
 title: BrainChild Innovation
 description: AI-software-enabled hardware workstations and enterprise AI solutions.
+# This site is published at: https://brainchildinnovation.github.io/AI/
+# The repo name ("AI") determines this path. This file is Jekyll metadata only
+# and does not control hosting, redirects, or custom domains.
 url: "https://brainchildinnovation.github.io"
 baseurl: "/AI"
 theme: null
