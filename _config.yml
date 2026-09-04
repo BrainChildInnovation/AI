@@ -3,6 +3,7 @@ description: AI-software-enabled hardware workstations and enterprise AI solutio
 # This site is published at: https://brainchildinnovation.github.io/AI/
 # The repo name ("AI") determines this path. This file is Jekyll metadata only
 # and does not control hosting, redirects, or custom domains.
+# Redeploy trigger: no custom domain is configured for this repo.
 url: "https://brainchildinnovation.github.io"
 baseurl: "/AI"
 theme: null
